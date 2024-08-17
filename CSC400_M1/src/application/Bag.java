@@ -1,5 +1,29 @@
 package application;
 
+//-------------------------------------------
+//Pseudocode
+//Author: Hailey King-Winterton
+//Due Date: 08/18/2024
+//-------------------------------------------
+//Start
+//		1. initialize map 
+//		2. create add method
+//			- check if in bag
+//			- add or increment
+//		3. create remove method
+//			- check if in bag
+//			- if 1, remove 1
+//			- if >1, decrement
+//		4. create contains method
+//			- check if in bag
+//			- return boolean
+//		5. create count method
+//			- return item count if in bag
+//		6. create print method
+//			- print all items & their count
+//End
+//-------------------------------------------
+
 import java.util.HashMap;
 import java.util.Map;
 

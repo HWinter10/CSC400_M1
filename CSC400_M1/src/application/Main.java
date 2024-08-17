@@ -1,5 +1,23 @@
 package application;
 
+// -------------------------------------------
+// Pseudocode
+// Author: Hailey King-Winterton
+// Due Date: 08/18/2024
+// -------------------------------------------
+// Start
+//		1. initialize bag
+//		2. add contents
+//		3. display menu
+//			1. print
+//			2. contains
+//			3. count
+//			4. remove
+//			5. exit
+// 		4. case set up for menu
+// End
+// -------------------------------------------
+
 import java.util.Scanner;
 
 public class Main {
